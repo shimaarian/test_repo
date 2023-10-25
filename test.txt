@@ -1,3 +1,5 @@
 test git push
 test commit 
 test merge
+test fetch
+
